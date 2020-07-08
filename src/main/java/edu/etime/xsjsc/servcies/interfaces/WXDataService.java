@@ -64,7 +64,7 @@ public interface WXDataService {
 
 
 	/**
-	 * 增加商品类型
+	 * 增加商品类型分类
 	 * @param type
 	 * @return
 	 */
